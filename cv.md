@@ -4,7 +4,7 @@
 * [LinkedIn](https://www.linkedin.com/in/tlohinava/)
 * Discord: tandsympathy(@TLohinava)
 
-## Intro
+## Intro :bowtie:
 Currently employed as a Test Automation Engineer. Eager to refresh the basics as well as expand my knowledge in the field of FE.
 
 ## Skills
